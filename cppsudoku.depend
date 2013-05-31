@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1200393957 source:d:\documents\codes perso\cppsudoku\main.cpp
+	<iostream>
+	"sudoku_solver.hpp"
+
+1199546835 d:\documents\codes perso\cppsudoku\sudoku.hpp
+	<cassert>
+	<string>
+	<fstream>
+	<stdexcept>
+	<iostream>
+
+1199568192 source:d:\documents\codes perso\cppsudoku\sudoku_solver.cpp
+	"sudoku_solver.hpp"
+	<iostream>
+	<fstream>
+
+1199310321 d:\documents\codes perso\cppsudoku\sudoku_solver.hpp
+	"sudoku.hpp"
+	<set>
+
